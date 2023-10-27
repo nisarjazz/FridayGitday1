@@ -34,4 +34,7 @@ System.out.println();
 //function calling  
 printPattern(n);  
 }  
-}  
+}
+{
+	This is my GIT & GIT Hub Session...!
+}
